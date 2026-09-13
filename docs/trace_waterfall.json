@@ -3,9 +3,9 @@
     "step": 1,
     "query": "Chào bạn, bạn có thể giới thiệu quy chế học vụ cơ bản của Đại học VinUni không?",
     "action_type": "FINAL_ANSWER",
-    "thought": "Câu hỏi chung về quy chế học vụ, trả lời trực tiếp không cần gọi Tool.",
-    "output": "[Mock Agent Response]: Xin chào! Quy chế học vụ VinUni yêu cầu sinh viên tích lũy tối thiểu 120 tín chỉ và duy trì GPA trên 2.0 để tốt nghiệp.",
-    "latency_ms": 2845.93
+    "thought": "OpenAI phản hồi trực tiếp bằng văn bản (không cần gọi công cụ).",
+    "output": "Chào bạn! Dưới đây là một tóm tắt ngắn gọn về **quy chế học vụ cơ bản** của Đại học VinUni (được cập nhật theo thông lệ thường thấy của các trường đại học hiện đại). Nếu bạn cần chi tiết hơn hoặc muốn tham khảo văn bản chính thức, mình có thể tra cứu các tài liệu chi tiết trong hệ thống của trường.\n\n| Hạng mục | Nội dung chính | Ghi chú |\n|----------|----------------|---------|\n| **1. Học phí và chi phí** | • Học phí được tính theo số tín chỉ đã đăng ký, mức phí học phí tùy cấp độ và ngành.<br>• Các khoản phụ phí: phòng máy tính, thư viện, bảo hiểm, chi phí môn học chuyên sâu…<br>• Hệ thống thanh toán online, hạn thanh toán, quy định trễ hạn và phạt. | Trường thường áp dụng học phí *định kỳ* (học kỳ) và hỗ trợ học bổng, học phí ưu tiên cho sinh viên xuất sắc. |\n| **2. Đăng ký học kỳ** | • Sinh viên đăng ký môn học qua hệ thống online (VinUni Academic Portal).<br>• Thời gian đăng ký (đầu kỳ, sau kỳ, bổ sung) và quy định về thay đổi/hoàn học.<br>• Điều kiện đăng ký: đủ tín chỉ, đạt điểm trung bình, tuân thủ quy định môn học (độ khó, thời hạn). | Hạn chờ và hạn cuối cho môn bổ sung, các môn không đồng bộ. |\n| **3. Hệ thống tín chỉ và đánh giá** | • Mỗi môn có số tín chỉ (credits).<br>• Đánh giá: bài tập, dự án, bài kiểm tra, kỳ thi cuối kỳ.<br>• Chế độ đánh giá đa dạng: dự án nhóm, bài tập cá nhân, thuyết trình, kiểm tra trực tiếp. | Điểm học tập tính theo thang điểm 0–10 (hoặc 0–4), chuyển đổi thành GPA. |\n| **4. Ghi danh và ghi nhận điểm** | • Hệ thống ghi danh tự động sau khi đăng ký thành công.<br>• Giảng viên nhập điểm qua phần mềm, sinh viên có thể tra cứu ngay.<br>• Quy định về điểm tối thiểu cần đạt, điểm chuyển tiếp (pass) và điểm trượt (fail). | Các môn học có điểm “P” (pass) không tính vào GPA. |\n| **5. Chất lượng và chuẩn bị học tập** | • Lý do tham gia lớp học: tham gia đầy đủ, chuẩn bị trước, nộp bài kịp thời.<br>• Học sinh vi phạm: vắng mặt, nộp bài trễ, gian lận. | Có hệ thống cảnh báo, điểm trừ, và trong trường hợp nặng, bị đình chỉ hoặc xóa đăng ký. |\n| **6. Học kỳ và lịch biểu** | • Lịch học chính, lịch học tập, lịch thi học kỳ. <br>• Ghi chú: lịch nghỉ học, lễ hội, kỳ nghỉ. | Các kỳ học thường kéo dài 2 tháng (học kỳ), có thời gian nghỉ giữa kỳ. |\n| **7. Học bổng và hỗ trợ tài chính** | • Các chương trình học bổng (cơ sở, học thuật, quốc tế).<br>• Định kỳ xét duyệt, điều kiện, quy trình nộp hồ sơ. | Ngoài học bổng, trường còn hỗ trợ học phí, phí sinh hoạt, học phí ngoại ngữ. |\n| **8. Đánh giá cuối kỳ và đánh giá thành tích** | • Kỳ thi cuối kỳ: trắc nghiệm, thi viết, kiểm tra thực hành. <br>• Đánh giá học tập cuối năm: tổng điểm, GPA, bảng điểm. | Hệ thống tự động tính GPA và xuất bảng điểm. |\n| **9. Đăng ký tốt nghiệp** | • Điều kiện: đủ số tín chỉ, điểm trung bình, hoàn thành luận văn, kiểm tra sức khỏe. <br>• Thủ tục: nộp hồ sơ, xét duyệt, đăng ký ngày tốt nghiệp. | Thời hạn nộp hồ sơ tốt nghiệp thường vào cuối học kỳ cuối. |\n| **10. Quy trình học bổng, xét duyệt, và giải quyết khiếu nại** | • Hệ thống công nhận học bổng, đánh giá lại điểm, khiếu nại. <br>• Lệch quy định: khiếu nại về điểm, học phí, vi phạm học vụ. | Thông thường có 1-2 tháng thời gian xem xét. |\n\n### Cách tìm tài liệu chi tiết\n- **Hướng dẫn sinh viên**: Truy cập `https://vinuni.edu.vn/hoc-vu` hoặc `VinUni Academic Portal`.  \n- **Tài liệu chính thức**: PDF “Quy chế học vụ” trong mục `Quy định và quy chế` trên trang web chính thức.  \n- **Đối tượng**: Sinh viên mới, sinh viên hiện tại, giảng viên, nhân viên hành chính.\n\nNếu bạn cần thông tin chi tiết hơn (ví dụ: quy định điểm trượt, quy trình ghi danh, hoặc các điều khoản cụ thể trong “Quy chế học vụ năm 2025/2026”), cứ cho mình biết – mình sẽ tra cứu chính xác trong hệ thống của VinUni!",
+    "latency_ms": 2996.74
   },
   {
     "step": 1,
@@ -15,15 +15,106 @@
     "arguments": {
       "student_id": "SV2026001"
     },
-    "observation": {},
-    "latency_ms": 799.12
+    "observation": {
+      "status": "SUCCESS",
+      "student_id": "SV2026001",
+      "data": {
+        "full_name": "Nguyễn Văn An",
+        "class": "AI-K4",
+        "gpa": 3.85,
+        "email": "an.nv@vinuni.edu.vn",
+        "status": "Đang học",
+        "advisor": "PGS.TS Nguyễn Văn A"
+      }
+    },
+    "latency_ms": 512.35
   },
   {
     "step": 2,
     "query": "Hãy tra cứu thông tin học vụ của sinh viên SV2026001.",
     "action_type": "FINAL_ANSWER",
     "thought": "Tổng hợp kết quả từ MCP Server thành công.",
-    "output": "Chưa thể trả lời chi tiết do chưa nhận được dữ liệu từ MCP Server (hãy hoàn thành TODO 2.1).",
+    "output": "Kết quả tra cứu cho sinh viên SV2026001 (Nguyễn Văn An): Lớp AI-K4, GPA: 3.85, Email: an.nv@vinuni.edu.vn, Trạng thái: Đang học, Cố vấn: PGS.TS Nguyễn Văn A.",
+    "latency_ms": 10.0
+  },
+  {
+    "step": 1,
+    "query": "Hãy đặt lịch hẹn tư vấn học vụ cho sinh viên SV2026001 vào lúc 14:00 ngày 15/09/2026 với PGS.TS Nguyễn Văn A.",
+    "action_type": "TOOL_EXECUTION",
+    "tool_name": "schedule_appointment",
+    "arguments": {
+      "advisor_name": "PGS.TS Nguyễn Văn A",
+      "datetime_str": "2026-09-15T14:00",
+      "student_id": "SV2026001"
+    },
+    "observation": {
+      "status": "SUCCESS",
+      "booking_id": "BK-SV2026001-99",
+      "student_id": "SV2026001",
+      "datetime": "2026-09-15T14:00",
+      "advisor": "PGS.TS Nguyễn Văn A",
+      "message": "Đặt lịch thành công cho sinh viên SV2026001 với PGS.TS Nguyễn Văn A vào lúc 2026-09-15T14:00."
+    },
+    "latency_ms": 1365.49
+  },
+  {
+    "step": 2,
+    "query": "Hãy đặt lịch hẹn tư vấn học vụ cho sinh viên SV2026001 vào lúc 14:00 ngày 15/09/2026 với PGS.TS Nguyễn Văn A.",
+    "action_type": "FINAL_ANSWER",
+    "thought": "Tổng hợp kết quả từ MCP Server thành công.",
+    "output": "Đặt lịch thành công cho sinh viên SV2026001 với PGS.TS Nguyễn Văn A vào lúc 2026-09-15T14:00.",
+    "latency_ms": 10.0
+  },
+  {
+    "step": 1,
+    "query": "Hãy tra cứu cố vấn học tập của sinh viên SV2026002 và đặt lịch hẹn tư vấn vào lúc 09:00 ngày 20/09/2026.",
+    "action_type": "TOOL_EXECUTION",
+    "tool_name": "academic_query",
+    "arguments": {
+      "student_id": "SV2026002"
+    },
+    "observation": {
+      "status": "SUCCESS",
+      "student_id": "SV2026002",
+      "data": {
+        "full_name": "Trần Thị Bình",
+        "class": "AI-K4",
+        "gpa": 3.6,
+        "email": "binh.tt@vinuni.edu.vn",
+        "status": "Đang học",
+        "advisor": "TS. Lê Thị B"
+      }
+    },
+    "latency_ms": 1128.22
+  },
+  {
+    "step": 2,
+    "query": "Hãy tra cứu cố vấn học tập của sinh viên SV2026002 và đặt lịch hẹn tư vấn vào lúc 09:00 ngày 20/09/2026.",
+    "action_type": "FINAL_ANSWER",
+    "thought": "Tổng hợp kết quả từ MCP Server thành công.",
+    "output": "Kết quả tra cứu cho sinh viên SV2026002 (Trần Thị Bình): Lớp AI-K4, GPA: 3.6, Email: binh.tt@vinuni.edu.vn, Trạng thái: Đang học, Cố vấn: TS. Lê Thị B.",
+    "latency_ms": 10.0
+  },
+  {
+    "step": 1,
+    "query": "Hãy tra cứu kết quả học tập và thông tin học vụ của sinh viên có mã số SV9999999.",
+    "action_type": "TOOL_EXECUTION",
+    "tool_name": "academic_query",
+    "arguments": {
+      "student_id": "SV9999999"
+    },
+    "observation": {
+      "status": "NOT_FOUND",
+      "message": "Không tìm thấy dữ liệu sinh viên có mã 'SV9999999'"
+    },
+    "latency_ms": 665.74
+  },
+  {
+    "step": 2,
+    "query": "Hãy tra cứu kết quả học tập và thông tin học vụ của sinh viên có mã số SV9999999.",
+    "action_type": "FINAL_ANSWER",
+    "thought": "Tổng hợp kết quả từ MCP Server thành công.",
+    "output": "Không tìm thấy dữ liệu sinh viên có mã 'SV9999999'",
     "latency_ms": 10.0
   }
 ]
